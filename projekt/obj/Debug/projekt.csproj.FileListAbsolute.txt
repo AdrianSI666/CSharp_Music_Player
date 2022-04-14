@@ -1,0 +1,15 @@
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\bin\Debug\projekt.exe.config
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\bin\Debug\projekt.exe
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\Interop.WMPLib.dll
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\AxInterop.WMPLib.dll
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.csproj.ResolveComReference.cache
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.Form1.resources
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.exe
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\obj\Debug\projekt.pdb
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\bin\Debug\projekt.pdb
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\bin\Debug\Interop.WMPLib.dll
+F:\Adrian\Studia\Rok 3\sem 5\C#\projekt\projekt\bin\Debug\AxInterop.WMPLib.dll
